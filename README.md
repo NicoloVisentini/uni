@@ -1,1 +1,3 @@
-# Repository Universitario Personale - Progetti e Esercizi
+# Repository Università
+
+Repository personale dedicata a progetti ed esercizi dell'università di Padova.
